@@ -2,9 +2,9 @@
 
 Soy Karen, soy Tecnóloga Médica con Mención en Radiología y Física Médica, y he ampliado mi formación con un Máster en Bioética Asistencial, Calidad y Seguridad en el Ámbito Sanitario por la Universidad de Valencia, España.
 
-Hace un par de años me gradué de Ingeniería Comercial, lo que me ha llevado a descubrir la estadística en profundidad y el análisis de datos. Con más de 15 años de experiencia en el sector de la salud, tanto en el ámbito público como privado, me he dado cuenta la importancia del uso de herramientas it, que pueden ayudar a la calidad en salud de las personas.
+Me gusta estar en constante aprendizaje, es por esto que hace un par de años me gradué de Ingeniería Comercial, lo que me ha llevado a descubrir la estadística en profundidad y el análisis de datos. Con más de 15 años de experiencia en el sector de la salud, tanto en el ámbito público como privado, me he dado cuenta la importancia del uso de herramientas it, que pueden ayudar a la calidad en salud de las personas.
 
-Es por eso que estoy en este nuevo camino, aprendiendo de nuevas herrmaientas, y lenguajes de programación. Así que en este repo encontraras, parte de mi aprendizaje, y material relacionado a ello.
+Es por eso que estoy en este nuevo camino, aprendiendo de nuevas herrmaientas it y lenguajes de programación. Así que en este repo encontraras, parte de mi aprendizaje, y material relacionado a ello.
 
 ## 📫 Contacto
 
