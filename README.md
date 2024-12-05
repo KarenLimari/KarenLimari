@@ -1,6 +1,6 @@
 # Hola 👋, soy Karen
 
-Soy Karen, soy Tecnóloga Médica con Mención en Radiología y Física Médica, y he ampliado mi formación con un Máster en Bioética Asistencial, Calidad y Seguridad en el Ámbito Sanitario por la Universidad de Valencia, España.
+Soy Tecnóloga Médica con Mención en Radiología y Física Médica, y he ampliado mi formación con un Máster en Bioética Asistencial, Calidad y Seguridad en el Ámbito Sanitario por la Universidad de Valencia, España.
 
 Me gusta estar en constante aprendizaje, es por esto que hace un par de años me gradué de Ingeniería Comercial, lo que me ha llevado a descubrir la estadística en profundidad y el análisis de datos. Con más de 15 años de experiencia en el sector de la salud, tanto en el ámbito público como privado, me he dado cuenta la importancia del uso de herramientas it, que pueden ayudar a la calidad en salud de las personas.
 
